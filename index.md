@@ -1,4 +1,4 @@
-## Pages By Brandy
+## Pages By Brandy 
 
 You can use the [editor on GitHub](https://github.com/plainee/brandy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +13,7 @@ import os
 def get(key):  
     return key  
 ```
-
+---  
 ```markdown
 Syntax highlighted code block
 
